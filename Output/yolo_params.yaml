@@ -1,0 +1,5 @@
+train: [train/images, ../soup/train/images]
+val: val/images
+test: ../../testImages_extension
+nc: 2
+names: ['cheerios', 'soup']
