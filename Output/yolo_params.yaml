@@ -1,5 +1,5 @@
 train: train/images
 val: val/images
-test: ../../testImages
+test: ../testImages
 nc: 2
 names: ['cheerios', 'soup']
