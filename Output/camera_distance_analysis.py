@@ -5,8 +5,8 @@ from PIL import Image
 # import sys
 import os
 
-real_img_root = './testImages/images/'
-real_label_root = './testImages/labels/'
+real_img_root = './../testImages/images/'
+real_label_root = './../testImages/labels/'
 
 syn_img_root = 'train/images/'
 syn_label_root ='train/labels/'
