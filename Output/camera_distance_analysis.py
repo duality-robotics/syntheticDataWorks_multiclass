@@ -8,8 +8,8 @@ import os
 real_img_root = './testImages/images/'
 real_label_root = './testImages/labels/'
 
-syn_img_root = './Output/date_time/train/images/'
-syn_label_root ='./Output/date_time/train/labels/'
+syn_img_root = 'train/images/'
+syn_label_root ='train/labels/'
 
 n_classes = 2
 
